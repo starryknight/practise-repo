@@ -17,6 +17,7 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 </summary>
 <p>There is no need to be very specific about the selector, there is a universal selector method "$" that allows you to use any CSS selector </p>
 </details>
+
 ```
 2. 
 ```
@@ -33,8 +34,9 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 </summary>
 <p>It is harder to get lost in translation using J-Query elements are selected using eq() </p>
 </details>
+
 ```
-1. 
+3. 
 ```
 <details>
 <summary>
