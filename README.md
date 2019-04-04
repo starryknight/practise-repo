@@ -4,9 +4,14 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 
 <details>
 <summary>
-<i>Like this? </i>
-<a href="http://www.ironspider.ca/format_text/fontstyles.htm">
-Useful Source</a>
+<i>Vanilla-JS Dom Says If you hava a className one please stand up[</i>
 </summary>
-<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+<p>No one is supposed to stand, there is no className one, this would ot be a problem with J-Query because it allows you to use CSS selectors </p>
+</details>
+
+<details>
+<summary>
+<i>J-Query Says If you hava selector b[</i>
+</summary>
+<p>There is no need to be very specific about the selector, there is a universal selector method "$" that allows you to use any CSS selector </p>
 </details>
