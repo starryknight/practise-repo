@@ -3,7 +3,7 @@
 Guten Morgen?? This morning's exercise is supposed to familiarise programmes with some functionalities of the popular Javascript Library called J-Query. In this exercise, you will be given a card with some identifiers on it, let us call them selectors. The first selector is a HTML Tag followed by a Class and an ID. Your instructor will then select some peole based on these selectors and tell them what to do.
 ```
 1. 
-```
+
 <details>
 <summary>
 <i>Vanilla Dom Says:- If you hava a className one please stand up</i>
@@ -19,8 +19,9 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 </details>
 
 ```
-2. 
 ```
+2. 
+
 <details>
 <summary>
 <i>Vanilla Dom Says:- For all elements that are P tags, if your class is red and your ID is the third index counting from the first index of an array stand please stand up</i>
@@ -51,3 +52,5 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 </summary>
 <p>This is a much simpler way of effecting changes to all tags with a similar selector. </p>
 </details>
+
+```
