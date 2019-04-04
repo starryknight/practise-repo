@@ -4,6 +4,7 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 ```
 1. 
 
+```
 <details>
 <summary>
 <i>Vanilla Dom Says:- If you hava a className one please stand up</i>
@@ -19,9 +20,10 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 </details>
 
 ```
-```
+
 2. 
 
+```
 <details>
 <summary>
 <i>Vanilla Dom Says:- For all elements that are P tags, if your class is red and your ID is the third index counting from the first index of an array stand please stand up</i>
@@ -53,4 +55,4 @@ Guten Morgen?? This morning's exercise is supposed to familiarise programmes wit
 <p>This is a much simpler way of effecting changes to all tags with a similar selector. </p>
 </details>
 
-```
+
